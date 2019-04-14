@@ -1,7 +1,7 @@
 # teacher.TKU-OpenData-API
 改造原始 API Demo: [data.php](http://www.ee.tku.edu.tw/api/data.php)
 
-## Enter your username an password
+## Enter your username and password
 Line: 99, 100, 113, 114, 126, 127.
 
 ## $\_POST
