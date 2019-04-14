@@ -96,8 +96,8 @@ class tku_opendata_api
                 $url .= 'OpUidList';
                 $op = array(
                     'json',
-                    'username',
-                    'password'
+                    'username', //your username
+                    'password'  //your password
                 );
                 $name = array(
                     'ty',
@@ -110,8 +110,8 @@ class tku_opendata_api
                 $url .= 'GetThrInfo';
                 $op = array(
                     'json',
-                    'username',
-                    'password'
+                    'username', //your username
+                    'password'  //your password
                 );
                 $name = array(
                     'ty',
@@ -123,8 +123,8 @@ class tku_opendata_api
                 $url .= 'GetTpFdList';
                 $op = array(
                     'json',
-                    'username',
-                    'password'
+                    'username', //your username
+                    'password'  //your password
                 );
                 $name = array(
                     'ty',
